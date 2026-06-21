@@ -1,2 +1,14 @@
 # hupu-data-archive
-HTML page archive and documentation
+
+独立 HTML 页面集合
+
+这个目录用于承载静态页面文件，内容会随发布任务持续补充。
+
+## 仓库内容
+
+- 页面文件保存在根目录
+- 后续任务会继续追加新的 HTML 文件
+
+## 维护状态
+
+仓库会随发布任务更新，若页面不可访问请以 GitHub 文件为准核对。
